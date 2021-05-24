@@ -1,0 +1,64 @@
+    h1 {
+        color: rgb(0, 4, 255);
+        text-align: start;
+        text-decoration: solid;
+        border-width: 3ch;
+        padding-top: 1%;
+        padding-left: 1%;
+        background-color: brown;
+    }
+    
+    h2 {}
+    
+    body {
+        text-align: center;
+    }
+    
+    #survey-form {
+        background-color: whitesmoke;
+        width: 750px;
+        margin-left: 22%;
+    }
+    
+    .row-tab {
+        display: block;
+        padding-inline-start: ;
+    }
+    
+    .label-flimpline {
+        display: inline-table;
+        padding-top: 1%;
+    }
+    
+    .input-Name {
+        display: inline-block;
+        margin-left: 5 auto;
+    }
+    
+    .input-MiddleName {
+        display: inline-block;
+    }
+    
+    .input-LastName {
+        display: inline-block
+    }
+    
+    .column-tabAge {
+        text-align: start;
+        padding-top: 1%;
+    }
+    
+    .column-tabEmail {
+        text-align: start;
+        padding-top: 1%;
+    }
+    
+    .column-tabSex {
+        text-align: start;
+        padding-top: 1%;
+    }
+    
+    .column-tabNationality {
+        text-align: start;
+        padding-top: 1%;
+    }
