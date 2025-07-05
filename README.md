@@ -1,4 +1,4 @@
-Here's a good README description for your GitHub project, "FLIMPLINE Signup Form," based on the HTML you provided:
+
 
 FLIMPLINE Signup Form
 This repository contains the front-end code for the FLIMPLINE user signup form. It's a simple, responsive HTML form designed to collect user information such as name, gender, date of birth, nationality, email, and new account credentials.
