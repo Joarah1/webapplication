@@ -27,4 +27,4 @@ Basic Form Structure: Provides the foundational HTML for a signup page.
 Technologies Used
 HTML5: For the core structure and content of the signup form.
 
-CSS3 (signupdesign.css - not included in this repo but referenced): For styling the form elements and layout.
+CSS3 (signupdesign.css - For styling the form elements and layout.
